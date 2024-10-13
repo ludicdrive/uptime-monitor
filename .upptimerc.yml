@@ -13,6 +13,8 @@ sites:
     url: https://unrealassetstore.com
   - name: Unreal/Assetstore Loader
     url: https://amm.assetstore-ue.com/user/ready
+  - name: Storage
+    url: https://cloud.ludicdrive.com
   
 
 status-website:
