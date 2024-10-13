@@ -21,7 +21,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ludicdrive.com
-  baseUrl: /uptime-monitor
+  # baseUrl: /uptime-monitor
   logoUrl: https://ludicdrive.com/wp-content/uploads/2022/07/logo_lda_256.png
   name: Ludic Drive Services Status
   introTitle: "Ludic Drive - Landscaping - Unreal/Assetstore"
