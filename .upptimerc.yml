@@ -7,16 +7,18 @@ sites:
     url: https://landscaping.ludicdrive.com
   - name: Maps
     url: https://maps.ludicdrive.com
+    icon: https://icons.duckduckgo.com/ip3/landscaping.ludicdrive.com.ico
   - name: Ludic Drive
     url: https://ludicdrive.com
   - name: Unreal/Assetstore
     url: https://unrealassetstore.com
+    icon: https://unrealassetstore.com/wp-content/uploads/2024/02/Square150x150Logo.png
   - name: Unreal/Assetstore Loader
     url: https://amm.assetstore-ue.com/user/ready
+    icon: https://unrealassetstore.com/wp-content/uploads/2024/02/Square150x150Logo.png
   - name: Storage
     url: https://cloud.ludicdrive.com
   
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -25,13 +27,13 @@ status-website:
   logoUrl: https://ludicdrive.com/wp-content/uploads/2022/07/logo_lda_256.png
   name: Ludic Drive Services Status
   introTitle: "Ludic Drive - Landscaping - Unreal/Assetstore"
-  introMessage: Live status of our service, uptime history and scheduled maintenance
+  introMessage: Live status of our services, uptime history and scheduled maintenance
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: dark
+  theme: night
   favicon: https://ludicdrive.com/wp-content/uploads/2022/07/logo_lda_256-150x150.png
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
