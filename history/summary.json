@@ -40,19 +40,19 @@
     "url": "https://ludicdrive.com",
     "icon": "https://icons.duckduckgo.com/ip3/ludicdrive.com.ico",
     "slug": "ludic-drive",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 819,
-    "timeDay": 784,
-    "timeWeek": 819,
-    "timeMonth": 819,
-    "timeYear": 819,
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
+    "time": 814,
+    "timeDay": 770,
+    "timeWeek": 814,
+    "timeMonth": 814,
+    "timeYear": 814,
     "dailyMinutesDown": {
-      "2024-10-19": 0
+      "2024-10-19": 50
     }
   },
   {
