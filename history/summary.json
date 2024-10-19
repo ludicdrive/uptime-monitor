@@ -40,9 +40,9 @@
     "url": "https://ludicdrive.com",
     "icon": "https://icons.duckduckgo.com/ip3/ludicdrive.com.ico",
     "slug": "ludic-drive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 819,
     "timeMonth": 819,
     "timeYear": 819,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-19": 0
+    }
   },
   {
     "name": "Unreal/Assetstore",
