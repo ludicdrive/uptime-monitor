@@ -60,19 +60,19 @@
     "url": "https://unrealassetstore.com",
     "icon": "https://unrealassetstore.com/wp-content/uploads/2024/02/Square150x150Logo.png",
     "slug": "unreal-assetstore",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 943,
-    "timeDay": 537,
-    "timeWeek": 762,
-    "timeMonth": 943,
-    "timeYear": 943,
+    "status": "up",
+    "uptime": "99.47%",
+    "uptimeDay": "90.33%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
+    "time": 985,
+    "timeDay": 1046,
+    "timeWeek": 907,
+    "timeMonth": 985,
+    "timeYear": 985,
     "dailyMinutesDown": {
-      "2024-10-31": 0
+      "2024-10-31": 139
     }
   },
   {
