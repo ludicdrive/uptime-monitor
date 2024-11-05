@@ -4,46 +4,50 @@
     "url": "https://landscaping.ludicdrive.com",
     "icon": "https://icons.duckduckgo.com/ip3/landscaping.ludicdrive.com.ico",
     "slug": "landscaping",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 886,
     "timeDay": 799,
     "timeWeek": 1060,
     "timeMonth": 886,
     "timeYear": 886,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-05": 2
+    }
   },
   {
     "name": "Maps",
     "url": "https://maps.ludicdrive.com",
     "icon": "https://icons.duckduckgo.com/ip3/landscaping.ludicdrive.com.ico",
     "slug": "maps",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 414,
     "timeDay": 323,
     "timeWeek": 436,
     "timeMonth": 414,
     "timeYear": 414,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-05": 2
+    }
   },
   {
     "name": "Ludic Drive",
     "url": "https://ludicdrive.com",
     "icon": "https://icons.duckduckgo.com/ip3/ludicdrive.com.ico",
     "slug": "ludic-drive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
     "time": 1346,
@@ -52,6 +56,7 @@
     "timeMonth": 1346,
     "timeYear": 1346,
     "dailyMinutesDown": {
+      "2024-11-05": 1,
       "2024-10-19": 50
     }
   },
@@ -60,18 +65,19 @@
     "url": "https://unrealassetstore.com",
     "icon": "https://unrealassetstore.com/wp-content/uploads/2024/02/Square150x150Logo.png",
     "slug": "unreal-assetstore",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
     "time": 1213,
     "timeDay": 1841,
     "timeWeek": 1837,
     "timeMonth": 1213,
     "timeYear": 1213,
     "dailyMinutesDown": {
+      "2024-11-05": 1,
       "2024-10-31": 139
     }
   },
@@ -80,9 +86,9 @@
     "url": "https://amm.assetstore-ue.com/user/ready",
     "icon": "https://unrealassetstore.com/wp-content/uploads/2024/02/Square150x150Logo.png",
     "slug": "unreal-assetstore-loader",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +97,9 @@
     "timeWeek": 762,
     "timeMonth": 725,
     "timeYear": 725,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-05": 0
+    }
   },
   {
     "name": "Storage",
