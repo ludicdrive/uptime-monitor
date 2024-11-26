@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 871,
-    "timeDay": 746,
-    "timeWeek": 796,
-    "timeMonth": 881,
-    "timeYear": 871,
+    "time": 874,
+    "timeDay": 1020,
+    "timeWeek": 787,
+    "timeMonth": 888,
+    "timeYear": 874,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 420,
-    "timeDay": 383,
+    "time": 423,
+    "timeDay": 547,
     "timeWeek": 409,
-    "timeMonth": 420,
-    "timeYear": 420,
+    "timeMonth": 425,
+    "timeYear": 423,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1325,
-    "timeDay": 989,
-    "timeWeek": 1280,
-    "timeMonth": 1414,
-    "timeYear": 1325,
+    "time": 1326,
+    "timeDay": 1380,
+    "timeWeek": 1129,
+    "timeMonth": 1399,
+    "timeYear": 1326,
     "dailyMinutesDown": {
       "2024-10-19": 50
     }
@@ -61,16 +61,16 @@
     "icon": "https://unrealassetstore.com/wp-content/uploads/2024/02/Square150x150Logo.png",
     "slug": "unreal-assetstore",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.77%",
-    "time": 1527,
-    "timeDay": 1575,
-    "timeWeek": 1932,
-    "timeMonth": 1813,
-    "timeYear": 1527,
+    "uptimeYear": "99.78%",
+    "time": 1543,
+    "timeDay": 2426,
+    "timeWeek": 1800,
+    "timeMonth": 1859,
+    "timeYear": 1543,
     "dailyMinutesDown": {
       "2024-10-31": 139
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 753,
-    "timeDay": 480,
-    "timeWeek": 733,
-    "timeMonth": 763,
-    "timeYear": 753,
+    "time": 751,
+    "timeDay": 646,
+    "timeWeek": 662,
+    "timeMonth": 766,
+    "timeYear": 751,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 515,
+    "time": 572,
+    "timeDay": 752,
     "timeWeek": 554,
-    "timeMonth": 575,
-    "timeYear": 569,
+    "timeMonth": 582,
+    "timeYear": 572,
     "dailyMinutesDown": {}
   }
 ]
