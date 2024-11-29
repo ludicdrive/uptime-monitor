@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 877,
-    "timeDay": 810,
-    "timeWeek": 868,
-    "timeMonth": 903,
-    "timeYear": 877,
+    "time": 875,
+    "timeDay": 775,
+    "timeWeek": 858,
+    "timeMonth": 905,
+    "timeYear": 875,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 321,
-    "timeWeek": 431,
+    "time": 421,
+    "timeDay": 320,
+    "timeWeek": 416,
     "timeMonth": 431,
-    "timeYear": 423,
+    "timeYear": 421,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ludicdrive.com.ico",
     "slug": "ludic-drive",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 1326,
-    "timeDay": 1208,
-    "timeWeek": 1196,
-    "timeMonth": 1382,
-    "timeYear": 1326,
+    "uptimeYear": "99.93%",
+    "time": 1322,
+    "timeDay": 1092,
+    "timeWeek": 1208,
+    "timeMonth": 1372,
+    "timeYear": 1322,
     "dailyMinutesDown": {
       "2024-10-19": 50
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.79%",
-    "time": 1561,
-    "timeDay": 1689,
-    "timeWeek": 1848,
-    "timeMonth": 1937,
-    "timeYear": 1561,
+    "time": 1562,
+    "timeDay": 1631,
+    "timeWeek": 1865,
+    "timeMonth": 1963,
+    "timeYear": 1562,
     "dailyMinutesDown": {
       "2024-10-31": 139
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 745,
-    "timeDay": 469,
-    "timeWeek": 608,
-    "timeMonth": 766,
-    "timeYear": 745,
+    "time": 743,
+    "timeDay": 654,
+    "timeWeek": 585,
+    "timeMonth": 765,
+    "timeYear": 743,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 468,
-    "timeWeek": 582,
-    "timeMonth": 589,
-    "timeYear": 574,
+    "time": 572,
+    "timeDay": 467,
+    "timeWeek": 571,
+    "timeMonth": 588,
+    "timeYear": 572,
     "dailyMinutesDown": {}
   }
 ]
