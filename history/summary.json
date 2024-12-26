@@ -80,18 +80,20 @@
     "url": "https://amm.assetstore-ue.com/user/ready",
     "icon": "https://unrealassetstore.com/wp-content/uploads/2024/02/Square150x150Logo.png",
     "slug": "unreal-assetstore-loader",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 761,
-    "timeDay": 672,
-    "timeWeek": 723,
-    "timeMonth": 780,
-    "timeYear": 761,
-    "dailyMinutesDown": {}
+    "time": 760,
+    "timeDay": 674,
+    "timeWeek": 717,
+    "timeMonth": 777,
+    "timeYear": 760,
+    "dailyMinutesDown": {
+      "2024-12-26": 0
+    }
   },
   {
     "name": "Storage",
