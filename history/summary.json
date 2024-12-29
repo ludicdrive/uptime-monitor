@@ -4,19 +4,19 @@
     "url": "https://landscaping.ludicdrive.com",
     "icon": "https://icons.duckduckgo.com/ip3/landscaping.ludicdrive.com.ico",
     "slug": "landscaping",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 866,
-    "timeDay": 780,
-    "timeWeek": 819,
-    "timeMonth": 849,
-    "timeYear": 866,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 865,
+    "timeDay": 785,
+    "timeWeek": 815,
+    "timeMonth": 848,
+    "timeYear": 865,
     "dailyMinutesDown": {
-      "2024-12-29": 0
+      "2024-12-29": 28
     }
   },
   {
