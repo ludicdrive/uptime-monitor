@@ -4,10 +4,10 @@
     "url": "https://landscaping.ludicdrive.com",
     "icon": "https://icons.duckduckgo.com/ip3/landscaping.ludicdrive.com.ico",
     "slug": "landscaping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.57%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 1024,
@@ -16,6 +16,7 @@
     "timeMonth": 1258,
     "timeYear": 1024,
     "dailyMinutesDown": {
+      "2024-12-31": 2,
       "2024-12-29": 43
     }
   },
@@ -42,18 +43,19 @@
     "url": "https://ludicdrive.com",
     "icon": "https://icons.duckduckgo.com/ip3/ludicdrive.com.ico",
     "slug": "ludic-drive",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.95%",
     "time": 1355,
     "timeDay": 889,
     "timeWeek": 1280,
     "timeMonth": 1418,
     "timeYear": 1355,
     "dailyMinutesDown": {
+      "2024-12-31": 2,
       "2024-10-19": 50
     }
   },
@@ -62,10 +64,10 @@
     "url": "https://unrealassetstore.com",
     "icon": "https://unrealassetstore.com/wp-content/uploads/2024/02/Square150x150Logo.png",
     "slug": "unreal-assetstore",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 2197,
@@ -74,6 +76,7 @@
     "timeMonth": 3385,
     "timeYear": 2197,
     "dailyMinutesDown": {
+      "2024-12-31": 1,
       "2024-10-31": 139
     }
   },
@@ -82,10 +85,10 @@
     "url": "https://amm.assetstore-ue.com/user/ready",
     "icon": "https://unrealassetstore.com/wp-content/uploads/2024/02/Square150x150Logo.png",
     "slug": "unreal-assetstore-loader",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 760,
@@ -93,16 +96,18 @@
     "timeWeek": 750,
     "timeMonth": 790,
     "timeYear": 760,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-31": 1
+    }
   },
   {
     "name": "Storage",
     "url": "https://cloud.ludicdrive.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.ludicdrive.com.ico",
     "slug": "storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,6 +116,8 @@
     "timeWeek": 602,
     "timeMonth": 596,
     "timeYear": 580,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-31": 0
+    }
   }
 ]
