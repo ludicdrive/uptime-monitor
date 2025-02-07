@@ -85,9 +85,9 @@
     "url": "https://amm.assetstore-ue.com/user/ready",
     "icon": "https://unrealassetstore.com/wp-content/uploads/2024/02/Square150x150Logo.png",
     "slug": "unreal-assetstore-loader",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -97,6 +97,7 @@
     "timeMonth": 711,
     "timeYear": 754,
     "dailyMinutesDown": {
+      "2025-02-07": 0,
       "2024-12-31": 19
     }
   },
