@@ -16,8 +16,6 @@ sites:
   - name: Unreal/Assetstore Loader
     url: https://amm.assetstore-ue.com/user/ready
     icon: https://unrealassetstore.com/wp-content/uploads/2024/02/Square150x150Logo.png
-  - name: Storage
-    url: https://cloud.ludicdrive.com
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
