@@ -5,8 +5,11 @@ repo: uptime-monitor # The name of this repository
 sites:
   - name: Landscaping
     url: https://landscaping.ludicdrive.com
-  - name: Maps
+  - name: Maps - Landscaping
     url: https://maps.ludicdrive.com
+    icon: https://icons.duckduckgo.com/ip3/landscaping.ludicdrive.com.ico
+  - name: Maps - Landscaping System
+    url: https://maps2.ludicdrive.com
     icon: https://icons.duckduckgo.com/ip3/landscaping.ludicdrive.com.ico
   - name: Ludic Drive
     url: https://ludicdrive.com
