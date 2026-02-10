@@ -24,9 +24,9 @@
     "url": "https://maps.ludicdrive.com",
     "icon": "https://icons.duckduckgo.com/ip3/landscaping.ludicdrive.com.ico",
     "slug": "maps-landscaping",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 215,
     "timeMonth": 190,
     "timeYear": 191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-10": 0
+    }
   },
   {
     "name": "Maps - Landscaping System",
