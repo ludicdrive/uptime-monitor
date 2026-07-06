@@ -115,11 +115,11 @@
     "icon": "https://unrealassetstore.com/wp-content/uploads/2024/02/Square150x150Logo.png",
     "slug": "unreal-assetstore-loader",
     "status": "down",
-    "uptime": "96.24%",
+    "uptime": "96.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.80%",
-    "uptimeYear": "93.55%",
+    "uptimeMonth": "20.07%",
+    "uptimeYear": "93.33%",
     "time": 487,
     "timeDay": 0,
     "timeWeek": 0,
@@ -128,7 +128,7 @@
     "dailyMinutesDown": {
       "2025-08-13": 29,
       "2025-09-10": 41,
-      "2026-07-06": 121,
+      "2026-07-06": 1315,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
@@ -160,10 +160,10 @@
     "url": "https://salzzeit.at",
     "icon": "https://icons.duckduckgo.com/ip3/salzzeit.at.ico",
     "slug": "salzzeit-at",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 648,
@@ -171,17 +171,19 @@
     "timeWeek": 536,
     "timeMonth": 637,
     "timeYear": 648,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-06": 1
+    }
   },
   {
     "name": "salzzeit.com",
     "url": "https://salzzeit.com",
     "icon": "https://icons.duckduckgo.com/ip3/salzzeit.com.ico",
     "slug": "salzzeit-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 517,
@@ -189,17 +191,19 @@
     "timeWeek": 453,
     "timeMonth": 524,
     "timeYear": 517,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-06": 1
+    }
   },
   {
     "name": "salzzeitmuseen.salzzeit.at",
     "url": "https://salzzeitmuseen.salzzeit.at/",
     "icon": "https://icons.duckduckgo.com/ip3/salzzeitmuseen.salzzeit.at.ico",
     "slug": "salzzeitmuseen-salzzeit-at",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 553,
@@ -207,16 +211,18 @@
     "timeWeek": 522,
     "timeMonth": 578,
     "timeYear": 553,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-06": 1
+    }
   },
   {
     "name": "salzzeitmuseen.salzzeit.com",
     "url": "https://salzzeitmuseen.salzzeit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/salzzeitmuseen.salzzeit.com.ico",
     "slug": "salzzeitmuseen-salzzeit-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -225,6 +231,8 @@
     "timeWeek": 469,
     "timeMonth": 512,
     "timeYear": 498,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-06": 0
+    }
   }
 ]
