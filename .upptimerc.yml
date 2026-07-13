@@ -17,7 +17,7 @@ sites:
     url: https://unrealassetstore.com
     icon: https://unrealassetstore.com/wp-content/uploads/2024/02/Square150x150Logo.png
   - name: Unreal/Assetstore Loader
-    url: https://amm.assetstore-ue.com/user/ready
+    url: https://api.amm.unrealassetstore.com/user/ready
     icon: https://unrealassetstore.com/wp-content/uploads/2024/02/Square150x150Logo.png
   - name: salzzeit.at
     url: https://salzzeit.at
